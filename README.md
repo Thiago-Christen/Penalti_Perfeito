@@ -4,8 +4,8 @@ Jogo casual feito em **p5.js + JavaScript**.
 O objetivo é marcar o maior número de gols possível enquanto sobe de fase e administra suas vidas.
 
 ## Integrantes
-- Thiago Soares
-- Gabriel Quadros
+- Thiago Christen Pereira Soares
+- Gabriel Quadros Garcia Pimentel
 
 ## Descrição
 Você controla a cobrança do pênalti com **clique, arraste e solte**.  
@@ -23,7 +23,7 @@ O jogo começa na tela inicial, possui **tela de sobre**, passa para a partida e
 - `goleiro_pulando.png`
 - `bola.png`
 
-### Áudios configurados
+### Áudios usados
 O jogo está preparado para procurar os seguintes arquivos em `assets/sounds/`:
 - `chute.mp3`
 - `gol.mp3`
@@ -59,4 +59,7 @@ Caso você adicione esses arquivos nessa pasta, os sons serão ativados automati
 - `goleiro.png`
 - `goleiro_pulando.png`
 - `bola.png`
+
+## Link video de 10 min Youtube
+**https://youtu.be/VRm6C4Y5NdM**
 
